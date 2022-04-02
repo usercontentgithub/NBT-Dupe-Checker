@@ -1,6 +1,6 @@
-# DungeonRoomsMod
+# NBT-ItemData
 A 1.8.9 Minecraft Forge Mod for Hypixel Skyblock which adds a Dupe Checker to Skyblock
-# NBT Duupe checker
+# NBT Dupe checker
 
 ### What it does:
 This mod adds High-Value Dupe checker into your skyblock expirience.
