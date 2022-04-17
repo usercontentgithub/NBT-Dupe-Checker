@@ -24,3 +24,4 @@ Short answer: This mod follows the general interpretation of Hypixel's rules, do
 (Configurable in Controls Menu)
  - P - Opens NBT Gui
  - O - Shows you ITEMDATA
+--
